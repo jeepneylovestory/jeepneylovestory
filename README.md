@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=nang+sinabi+kong+mahal+kita%2C;kinilig+ka+ba+nang+bahagya%3F" alt="Typing SVG" /></a>
 
-  </p>
+</p>
   
 <p align="center">
   
